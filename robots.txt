@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mahmud5678.github.io/mecro-ai-studio/sitemap.xml
